@@ -1,6 +1,6 @@
 # 🧠 Exercitando o córtex💪🏾
 
-Bem-vindo(a)! 👋  
+Bem-vindo(a)! 👋🏾  
 Este repositório reúne **exercícios práticos de lógica de programação**, desenvolvidos com o objetivo de **fortalecer o raciocínio lógico** e aprimorar as habilidades de **resolução de problemas com código**.
 
 A linguagem escolhida é o **Python**, por sua **facilidade de aprendizado**, **legibilidade** e por oferecer uma **curva de aprendizado equilibrada**, que dosa o desafio com um início acessível e intuitivo.
