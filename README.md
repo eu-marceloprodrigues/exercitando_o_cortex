@@ -24,14 +24,20 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `0 / 50`
+**Exercícios concluídos:** `10 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
 | 001 | **Hello World** 🌍 | ✅ Concluído | Escreva um programa que imprime "Hello, World!" na tela. |
 | 002 | **Números e Operações Básicas** ➕➖✖️➗ | ✅ Concluído | Calcule a soma, subtração, multiplicação e divisão de dois números. |
 | 003|  **Cálculo de Área** 📐 | ✅ Concluído | Escreva um programa que calcule a área de um triângulo, dado a base e a altura. |
-
+| 004| **Conversor de Temperatura** 🌡️ | ✅ Concluído | Converta uma temperatura de Celsius para Fahrenheit e vice-versa. |
+| 005| **Par ou Ímpar** 🔢 | ✅ Concluído | Escreva um programa que verifique se um número é par ou ímpar. |
+| 006|  **Fatorial** ✨ | ✅ Concluído | Calcule o fatorial de um número. |
+| 007|  **Fibonacci** 🌀 | ✅ Concluído | Gere a sequência de Fibonacci até um número n. |
+| 008|  **Números Primos** 🧮 | ✅ Concluído | Verifique se um número é primo.  |
+| 009|  **Contagem de Caracteres** 🔤 | ✅ Concluído | Conte o número de caracteres em uma string. |
+| 010|  **Inversão de String** 🔄 | ✅ Concluído | Inverta uma string. |
 
 <br><br>
 ## 🚀 Objetivo
