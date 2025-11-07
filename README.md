@@ -11,10 +11,10 @@ A linguagem escolhida é o **Python**, por sua **facilidade de aprendizado**, **
 
 Os exercícios estão organizados da seguinte forma:<br>
 📁 projeto-logica-python/<br>
-├── 📁 exercicios/<br>
-│ ├── 📄 exercicio_001.py<br>
-│ ├── 📄 exercicio_002.py<br>
-│ ├── 📄 exercicio_003.py<br>
+├── 📁 atividades/<br>
+│ ├── 📄 Exercicio_1.py<br>
+│ ├── 📄 Exercicio_2.py<br>
+│ ├── 📄 Exercicio_3.py<br>
 │ └── ...<br>
 └── README.md<br>
 
@@ -69,11 +69,11 @@ Se ainda não tem o Python instalado:
 
 2. Acesse a pasta:
    ```bash
-   cd projeto-logica-python/exercicios
+   cd projeto-logica-python/atividades
 
 3. Execute o exercício desejado:
    ```bash
-   python exercicio_001.py
+   python Exercicio_1.py
 
 ## 🧩 Contribuições
 
