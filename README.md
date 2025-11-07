@@ -1,4 +1,4 @@
-# 🧠 Exercícios de Lógica de Programação em Python
+# 🧠 Exercitando o córtex💪🏾
 
 Bem-vindo(a)! 👋  
 Este repositório reúne **exercícios práticos de lógica de programação**, desenvolvidos com o objetivo de **fortalecer o raciocínio lógico** e aprimorar as habilidades de **resolução de problemas com código**.
@@ -25,8 +25,13 @@ Cada arquivo contém:
 
 ## 📊 Progresso dos Exercícios
 **Exercícios concluídos:** `0 / 50`
-| Nº | Exercício | Status | Descrição breve |
+
+| Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
+| 001 | **Hello World** 🌍 | ✅ Concluído | Escreva um programa que imprime "Hello, World!" na tela. |
+| 002 | **Números e Operações Básicas** ➕➖✖️➗ | ✅ Concluído | Calcule a soma, subtração, multiplicação e divisão de dois números. |
+| 003|  **Cálculo de Área** 📐 | ✅ Concluído | Escreva um programa que calcule a área de um triângulo, dado a base e a altura. |
+
 
 <br><br>
 ## 🚀 Objetivo
