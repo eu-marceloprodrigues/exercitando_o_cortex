@@ -26,7 +26,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `12 / 50`
+**Exercícios concluídos:** `13 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -42,6 +42,7 @@ Cada arquivo contém:
 | 010|  **Palíndromo** 🔁 | ✅ Concluído | Inverta uma string. |
 | 011|  **Inversão de String** 🔄 | ✅ Concluído | Verifique se uma string é um palíndromo.✅ |
 | 012|  **Calculadora Simples** 🧮 | ✅ Concluído | Crie uma calculadora que suporte as quatro operações básicas. |
+| 013|  **Máximo e Mínimo** 📊 | ✅ Concluído | Encontre o maior e o menor número de uma lista. |
 
 ## 💻 Observações Importantes
 
