@@ -11,11 +11,13 @@ A linguagem escolhida é o **Python**, por sua **facilidade de aprendizado**, **
 
 Os exercícios estão organizados da seguinte forma:<br>
 📁 projeto-logica-python/<br>
+├── 📁 icones/<br>
 ├── 📁 atividades/<br>
 │ ├── 📄 Exercicio_1.py<br>
 │ ├── 📄 Exercicio_2.py<br>
 │ ├── 📄 Exercicio_3.py<br>
-│ └── ...<br>
+│ └── 📁 build/<br>
+| └── 📁 dist/<br>
 └── README.md<br>
 
 Cada arquivo contém:
@@ -24,7 +26,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `11 / 50`
+**Exercícios concluídos:** `12 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -39,6 +41,23 @@ Cada arquivo contém:
 | 009|  **Contagem de Caracteres** 🔤 | ✅ Concluído | Conte o número de caracteres em uma string. |
 | 010|  **Palíndromo** 🔁 | ✅ Concluído | Inverta uma string. |
 | 011|  **Inversão de String** 🔄 | ✅ Concluído | Verifique se uma string é um palíndromo.✅ |
+| 012|  **Calculadora Simples** 🧮 | ✅ Concluído | Crie uma calculadora que suporte as quatro operações básicas. |
+
+## 💻 Observações Importantes
+
+🔹 O exercício**Calculadora Simples (exercicio 12)** utiliza a biblioteca **[Flet](https://flet.dev)**.  
+Para executar corretamente:
+
+1. **Instale a biblioteca Flet:**
+   ```bash
+   pip install flet
+2. Baixe também as pastas build/ e dist/ que acompanham o exercício.
+Elas contêm os arquivos necessários para a execução da interface gráfica.
+
+3. Execute o programa:
+    ```bash
+     Exercicio_12.py
+ 💡 Dica: o Flet permite criar interfaces modernas com Python puro, sem precisar usar HTML, CSS ou JS — perfeito para quem quer praticar lógica e começar a entender GUIs.
 
 <br><br>
 ## 🚀 Objetivo
