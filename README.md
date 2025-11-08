@@ -24,7 +24,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `10 / 50`
+**Exercícios concluídos:** `11 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -37,7 +37,8 @@ Cada arquivo contém:
 | 007|  **Fibonacci** 🌀 | ✅ Concluído | Gere a sequência de Fibonacci até um número n. |
 | 008|  **Números Primos** 🧮 | ✅ Concluído | Verifique se um número é primo.  |
 | 009|  **Contagem de Caracteres** 🔤 | ✅ Concluído | Conte o número de caracteres em uma string. |
-| 010|  **Inversão de String** 🔄 | ✅ Concluído | Inverta uma string. |
+| 010|  **Palíndromo** 🔁 | ✅ Concluído | Inverta uma string. |
+| 011|  **Inversão de String** 🔄 | ✅ Concluído | Verifique se uma string é um palíndromo.✅ |
 
 <br><br>
 ## 🚀 Objetivo
