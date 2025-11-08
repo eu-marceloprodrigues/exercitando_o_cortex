@@ -57,7 +57,8 @@ Elas contêm os arquivos necessários para a execução da interface gráfica.
 3. Execute o programa:
     ```bash
      Exercicio_12.py
- 💡 Dica: o Flet permite criar interfaces modernas com Python puro, sem precisar usar HTML, CSS ou JS — perfeito para quem quer praticar lógica e começar a entender GUIs.
+ 💡 Dica: o Flet permite criar interfaces modernas com Python puro, sem precisar usar HTML, CSS ou JS — perfeito para quem quer praticar lógica e começar a entender GUIs.<br>
+ ⬇️ Você também pode baixar o projeto diretamente por este [link](https://drive.google.com/drive/folders/1_orEGA8Ad13k5VhX3h7ga-iaReW7BnwQ?usp=sharing)
 
 <br><br>
 ## 🚀 Objetivo
