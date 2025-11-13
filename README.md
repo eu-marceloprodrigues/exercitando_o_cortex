@@ -26,7 +26,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `13 / 50`
+**Exercícios concluídos:** `16 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -43,6 +43,9 @@ Cada arquivo contém:
 | 011|  **Inversão de String** 🔄 | ✅ Concluído | Verifique se uma string é um palíndromo.✅ |
 | 012|  **Calculadora Simples** 🧮 | ✅ Concluído | Crie uma calculadora que suporte as quatro operações básicas. |
 | 013|  **Máximo e Mínimo** 📊 | ✅ Concluído | Encontre o maior e o menor número de uma lista. |
+| 014|  **Ordenação** 📈 | ✅ Concluído | Implemente um algoritmo de ordenação (por exemplo, Bubble Sort). |
+| 015|  **Busca Linear** 🔍 | ✅ Concluído | Implemente um algoritmo de busca linear em uma lista. |
+| 016|  **Busca Binária** 🔎 | ✅ Concluído | Implemente um algoritmo de busca binária em uma lista ordenada. |
 
 ## 💻 Observações Importantes
 
