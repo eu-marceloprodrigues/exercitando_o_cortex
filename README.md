@@ -26,7 +26,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `16 / 50`
+**Exercícios concluídos:** `17 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -46,6 +46,7 @@ Cada arquivo contém:
 | 014|  **Ordenação** 📈 | ✅ Concluído | Implemente um algoritmo de ordenação (por exemplo, Bubble Sort). |
 | 015|  **Busca Linear** 🔍 | ✅ Concluído | Implemente um algoritmo de busca linear em uma lista. |
 | 016|  **Busca Binária** 🔎 | ✅ Concluído | Implemente um algoritmo de busca binária em uma lista ordenada. |
+| 017|  **Média de Notas 🎓 ** | ✅ Concluído | Calcule a média de uma lista de notas. |
 
 ## 💻 Observações Importantes
 
