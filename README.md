@@ -26,7 +26,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `17 / 50`
+**Exercícios concluídos:** `20 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -47,6 +47,9 @@ Cada arquivo contém:
 | 015|  **Busca Linear** 🔍 | ✅ Concluído | Implemente um algoritmo de busca linear em uma lista. |
 | 016|  **Busca Binária** 🔎 | ✅ Concluído | Implemente um algoritmo de busca binária em uma lista ordenada. |
 | 017|  **Média de Notas 🎓 ** | ✅ Concluído | Calcule a média de uma lista de notas. |
+| 018|  **Números Aleatórios** 🎲 | ✅ Concluído | Conte o número de vogais em uma string. |
+| 019|  **Contagem de Vogais** 💬 | ✅ Concluído | Imprima a tabuada de um número. |
+| 020|  **Tabuada** ➗ | ✅ Concluído | Imprima a tabuada de um número. |
 
 ## 💻 Observações Importantes
 
