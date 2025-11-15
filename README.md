@@ -26,7 +26,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `20 / 50`
+**Exercícios concluídos:** `21 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -50,6 +50,7 @@ Cada arquivo contém:
 | 018|  **Números Aleatórios** 🎲 | ✅ Concluído | Conte o número de vogais em uma string. |
 | 019|  **Contagem de Vogais** 💬 | ✅ Concluído | Imprima a tabuada de um número. |
 | 020|  **Tabuada** ➗ | ✅ Concluído | Imprima a tabuada de um número. |
+| 021| **Conversor de Moeda** 💱 | ✅ Concluído | Converta valores entre diferentes moedas. |
 
 ## 💻 Observações Importantes
 
