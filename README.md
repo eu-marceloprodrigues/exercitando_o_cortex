@@ -26,7 +26,7 @@ Cada arquivo contém:
 - 🧩 **Comentários explicativos** quando necessário  
 
 ## 📊 Progresso dos Exercícios
-**Exercícios concluídos:** `21 / 50`
+**Exercícios concluídos:** `23 / 50`
 
 | Nº | Exercício | Status | Descrição  |
 |:--:|:-----------|:--------|:----------------|
@@ -51,6 +51,8 @@ Cada arquivo contém:
 | 019|  **Contagem de Vogais** 💬 | ✅ Concluído | Imprima a tabuada de um número. |
 | 020|  **Tabuada** ➗ | ✅ Concluído | Imprima a tabuada de um número. |
 | 021| **Conversor de Moeda** 💱 | ✅ Concluído | Converta valores entre diferentes moedas. |
+| 022| **Anagramas** 🔠 | ✅ Concluído | Verifique se duas strings são anagramas. |
+| 023| **Soma de Dígitos** 🔢 | ✅ Concluído | Some os dígitos de um número. |
 
 ## 💻 Observações Importantes
 
